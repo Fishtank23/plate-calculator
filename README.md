@@ -1,7 +1,7 @@
 # plate-calculator
 
 How to use
-Run program and follow the prompts:
+run program and follow the prompts:
 1. Enter equipment you are using (e.g., barbell, hex bar, curl bar, custom bar)
 2. Enter the total target weight in pounds
 
